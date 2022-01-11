@@ -1,3 +1,4 @@
+#Register Functions are not done.
 from tkinter import *
 root = Tk()
 root.title('Login System.Made by NKH.Liu@2022.1.8')
